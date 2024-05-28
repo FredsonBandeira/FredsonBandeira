@@ -20,7 +20,7 @@
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    <img align="center" alt="Mysql" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white">
-   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=typescript&logoColor=white">
+   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-39457E?style=for-the-badge&logo=typescript&logoColor=white">
   
  </div>
 
